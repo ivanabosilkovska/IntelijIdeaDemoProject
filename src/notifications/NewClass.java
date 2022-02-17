@@ -11,6 +11,9 @@ public class NewClass {
 
         System.out.println("test");
 
+        System.out.println("Test");
+        int a=1;
+
 
     }
 
